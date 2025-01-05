@@ -2,7 +2,11 @@
 
 **Autor**: Viktor Kramár
 
+Môj projekt sa zameriava na spracovanie údajov z Chinook databázy prostredníctvom ETL procesu v rámci hviezdicovej schémy.
 
+Zdrojový dataset
+Chinook databáza je vzorová relačná databáza, ktorá obsahuje údaje o hudobných albumoch, skladbách, umelcoch, zákazníkoch, objednávkach a faktúrach. 
+Dáta z Chinook databázy budú transformované a optimalizované na analytické účely pomocou platformy Snowflake.
 
 ---
 ## **1. Úvod a popis zdrojových dát**
