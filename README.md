@@ -182,6 +182,13 @@ GROUP BY
 ORDER BY 
     d.year, d.quarter;
 ```
+
+<p align="center">
+  <img src="https://github.com/PalcivaPapricka/DT_projekt_chinook/blob/main/Vizualization%20screenshots/trzbazastrvtrok.PNG" alt="ERD Schema">
+  <br>
+  <em> Star schema Chinook </em>
+</p>
+
 ---  
 
 ### **4.2 Priemerné hodnota predaja podla typu média**
@@ -200,6 +207,13 @@ GROUP BY
 ORDER BY 
     avg_sale_value DESC;
 ```
+
+<p align="center">
+  <img src="https://github.com/PalcivaPapricka/DT_projekt_chinook/blob/main/Vizualization%20screenshots/Priemernahodnotapodlamedia.PNG" alt="ERD Schema">
+  <br>
+  <em> Star schema Chinook </em>
+</p>
+
 --- 
 
 ### **4.3 Počet nákupov podla národnosťí**
@@ -217,6 +231,13 @@ ORDER BY
      total_purchases DESC; 
 ```
 
+<p align="center">
+  <img src="https://github.com/PalcivaPapricka/DT_projekt_chinook/blob/main/Vizualization%20screenshots/PredajePodlaNarodnosti.PNG" alt="ERD Schema">
+  <br>
+  <em> Star schema Chinook </em>
+</p>
+
+
 ---    
 
 ### **4.4 Ročná priemerná hodnota objednávky**
@@ -233,6 +254,14 @@ GROUP BY
 ORDER BY
    dd.year;
 ```
+
+<p align="center">
+  <img src="https://github.com/PalcivaPapricka/DT_projekt_chinook/blob/main/Vizualization%20screenshots/HodnotaNakupuzaRok.PNG" alt="ERD Schema">
+  <br>
+  <em> Star schema Chinook </em>
+</p>
+
+
 ---    
 
 ### **4.5 Rozdelenie príjmov za rok podľa žánrov**
@@ -251,3 +280,9 @@ GROUP BY
 ORDER BY
    dd.year, total_revenue DESC;
 ```
+
+<p align="center">
+  <img src="https://github.com/PalcivaPapricka/DT_projekt_chinook/blob/main/Vizualization%20screenshots/TrzbaPodlaZanru.png" alt="ERD Schema">
+  <br>
+  <em> Star schema Chinook </em>
+</p>
