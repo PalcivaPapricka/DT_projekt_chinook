@@ -286,3 +286,8 @@ ORDER BY
   <br>
   <em> Star schema Chinook </em>
 </p>
+
+
+
+Autor: Viktor Kramár
+
