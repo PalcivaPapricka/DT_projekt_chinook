@@ -186,7 +186,6 @@ ORDER BY
 <p align="center">
   <img src="https://github.com/PalcivaPapricka/DT_projekt_chinook/blob/main/Vizualization%20screenshots/trzbazastrvtrok.PNG" alt="ERD Schema">
   <br>
-  <em> Star schema Chinook </em>
 </p>
 
 ---  
@@ -211,7 +210,6 @@ ORDER BY
 <p align="center">
   <img src="https://github.com/PalcivaPapricka/DT_projekt_chinook/blob/main/Vizualization%20screenshots/Priemernahodnotapodlamedia.PNG" alt="ERD Schema">
   <br>
-  <em> Star schema Chinook </em>
 </p>
 
 --- 
@@ -234,7 +232,6 @@ ORDER BY
 <p align="center">
   <img src="https://github.com/PalcivaPapricka/DT_projekt_chinook/blob/main/Vizualization%20screenshots/PredajePodlaNarodnosti.PNG" alt="ERD Schema">
   <br>
-  <em> Star schema Chinook </em>
 </p>
 
 
@@ -258,7 +255,6 @@ ORDER BY
 <p align="center">
   <img src="https://github.com/PalcivaPapricka/DT_projekt_chinook/blob/main/Vizualization%20screenshots/HodnotaNakupuzaRok.PNG" alt="ERD Schema">
   <br>
-  <em> Star schema Chinook </em>
 </p>
 
 
@@ -284,7 +280,6 @@ ORDER BY
 <p align="center">
   <img src="https://github.com/PalcivaPapricka/DT_projekt_chinook/blob/main/Vizualization%20screenshots/TrzbaPodlaZanru.png" alt="ERD Schema">
   <br>
-  <em> Star schema Chinook </em>
 </p>
 
 
